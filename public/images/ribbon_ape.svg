@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="168px" height="168px" viewBox="0 0 168 168">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.8 0" result="result1"/>
+</filter>
+
+<g id="ribbon_old_svg_Layer_1__Path__0_Layer0_0_FILL">
+<path fill="#ff4e91" stroke="none" d="
+M 0 99.95
+L 0 167.65 167.6 0 99.9 0 0 99.95 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0.4,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#ribbon_old_svg_Layer_1__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.7071075439453125, -0.70709228515625, 0.70709228515625, 0.7071075439453125, 27.95,85.95) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="118.3" height="34.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="23.95" baseline-shift="0%" font-family="Kanit, sans-serif" font-size="26" fill="#FFFFFF" xml:space="preserve">SAT LP</tspan></text>
+</g>
+</svg>

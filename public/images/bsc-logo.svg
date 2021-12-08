@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="32.114796mm"
+   height="32.054359mm"
+   viewBox="0 0 32.114796 32.054359"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2">
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.26458332"
+       ry="15.983704"
+       rx="16.090618"
+       cy="16.070654"
+       cx="16.197531"
+       id="path3726" />
+  </g>
+  <g
+     id="layer3">
+    <g
+       id="layer1"
+       transform="translate(-0.83981496,-264.17188)"
+       style="">
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-57.203747,207.67885)"
+         id="bscscan-logo">
+        <g
+           id="bscscan-logo-circle">
+          <path
+             d="m 244.6,271.1 a 5.144,5.144 0 0 1 5.168,-5.143 l 8.568,0.028 a 5.151,5.151 0 0 1 5.151,5.151 v 32.4 c 0.965,-0.286 2.2,-0.591 3.559,-0.911 a 4.292,4.292 0 0 0 3.309,-4.177 v -40.187 a 5.152,5.152 0 0 1 5.151,-5.152 h 8.594 a 5.152,5.152 0 0 1 5.151,5.152 v 37.3 c 0,0 2.15,-0.87 4.243,-1.754 a 4.3,4.3 0 0 0 2.625,-3.957 v -44.467 a 5.151,5.151 0 0 1 5.15,-5.151 h 8.585 A 5.151,5.151 0 0 1 315,245.383 V 282 c 7.443,-5.394 14.986,-11.882 20.972,-19.683 a 8.646,8.646 0 0 0 1.316,-8.072 60.636,60.636 0 1 0 -109.855,50.108 7.668,7.668 0 0 0 7.316,3.79 c 1.624,-0.143 3.646,-0.345 6.05,-0.627 a 4.29,4.29 0 0 0 3.805,-4.258 V 271.1"
+             data-name="Path 1"
+             id="Path_1"
+             style="fill:#12161c" />
+          <path
+             d="M 244.417,323.061 A 60.656,60.656 0 0 0 340.756,274 c 0,-1.4 -0.065,-2.778 -0.158,-4.152 -22.163,33.055 -63.085,48.508 -96.181,53.213"
+             data-name="Path 2"
+             id="Path_2"
+             style="fill:#f0b90b" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
